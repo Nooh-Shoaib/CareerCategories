@@ -11,8 +11,8 @@
       "description": [
         {
           "subheading": "SQA Engineer",
-          "text": "A Software Quality Assurance (SQA) Engineer, also known as a Software Tester or Quality Assurance Engineer, is a professionaly responsible for ensuring the quality and reliability of software applications or systems. Their primary goal is to identify and prevent defects or issues before software is released to end-users.",
-          "infotext": "Here are some key responsibilities and tasks typically associated with the role of an SQA Engineer:",
+          "text": "A <strong> Software Quality Assurance (SQA)</strong> Engineer, also known as a<strong> Software Tester</strong> or<strong> Quality Assurance Engineer</strong>, is a professionaly responsible for ensuring the quality and reliability of software applications or systems. Their primary goal is to identify and prevent defects or issues before software is released to end-users.",
+          "infotext": "Here are some key responsibilities and tasks typically associated with the role of an<strong> SQA Engineer</strong>:",
           "list": [
             "Test Planning",
             "Test Execution",
@@ -26,7 +26,7 @@
           ]
         },
         {
-          "text": "We collect information automatically through your browser when you visit our Site. In addition to this information, you have to make a personal profile to contact us via the website. Create a profile by inserting your email address or filling out a form. According to this Privacy Policy, you allow us to use, collect, and store your email and other data. We may collect data through emails or texts, proposals, or providing services."
+          "text": "To be successful as an SQA Engineer, one should possess strong analytical and problem-solving skills, attention to detail, and good communication skills. Knowledge of various testing methodologies, tools, and programming languages is also beneficial in this role."
         }
       ]
     }
