@@ -44,8 +44,8 @@
           "text": "As a PHP developer, you specialize in using the PHP programming language to build web applications and websites. PHP is a widely used and popular server-side scripting language, particularly suited for web development.",
           "abouttext": "As a PHP developer, you will typically work with frameworks like Laravel, Symfony, or CodeIgniter to expedite development tasks and enhance code organization. These frameworks provide a structured approach to building web applications, making it easier to manage databases, handle user authentication, and implement other common functionalities.",
           "infotext": "In addition to frameworks, you’ll likely work with other tools and technologies such as MySQL or PostgreSQL for database management, HTML, CSS, and JavaScript for front-end development, and version control systems like Git for code management.",
+          "listtext": "Your responsibilities may include:",
           "list": [
-            "Your responsibilities may include",
             "Developing and maintaining web applications using PHP and related technologies.",
             "Designing and implementing database structures and managing data using SQL queries.",
             "Collaborating with designers and front-end developers to create user-friendly interfaces.",
@@ -58,6 +58,37 @@
         },
         {
           "additionaltext": "To excel as a PHP developer, it’s important to have a strong understanding of PHP fundamentals, object-oriented programming (OOP) principles, and familiarity with web development concepts. You should also possess problem-solving skills, attention to detail, and the ability to work in a collaborative team environment."
+        }
+      ]
+    },
+    {
+      "slug": "react-developer",
+      "id": "react-developer",
+      "breadcrumbs": {
+        "pageTitle": "Careers",
+        "category": "React Developer",
+        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
+      },
+      "description": [
+        {
+          "subheading": "React Developer",
+          "text": "React is a popular JavaScript library for building user interfaces. As a React developer, you’ll be working with components, managing state and props, and handling events to create interactive and dynamic web applications.",
+          "infotext": "Here are some key concepts and technologies you should be familiar with as a React developer:",
+          "list": [
+            "JSX",
+            "Components of React",
+            "State and Properties of React",
+            "Virtual DOM(Document Object Model)",
+            "React Router",
+            "Redux",
+            "React Hooks",
+            "React Context",
+            "React Testing Library",
+            "React Developer Tools"
+          ]
+        },
+        {
+          "additionaltext": "Remember that React is constantly evolving, and it’s essential to stay up-to-date with the latest features."
         }
       ]
     }
