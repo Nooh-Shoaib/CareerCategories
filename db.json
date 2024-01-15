@@ -3,8 +3,12 @@
     {
       "slug": "sqa-engineer",
       "id": "sqa-engineer",
+      "breadcrumbs": {
+"pageTitle": "Careers",
+"category": "SQA Engineer",
+"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
+},
       "description": [
-      
         {
           "subheading": "SQA Engineer",
           "text": "A Software Quality Assurance (SQA) Engineer, also known as a Software Tester or Quality Assurance Engineer, is a professionaly responsible for ensuring the quality and reliability of software applications or systems. Their primary goal is to identify and prevent defects or issues before software is released to end-users.",
