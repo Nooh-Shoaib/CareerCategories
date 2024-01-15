@@ -4,14 +4,14 @@
       "slug": "sqa-engineer",
       "id": "sqa-engineer",
       "breadcrumbs": {
-"pageTitle": "Careers",
-"category": "SQA Engineer",
-"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
-},
+        "pageTitle": "Careers",
+        "category": "SQA Engineer",
+        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
+      },
       "description": [
         {
           "subheading": "SQA Engineer",
-          "text": "A <strong> Software Quality Assurance (SQA)</strong> Engineer, also known as a<strong> Software Tester</strong> or<strong> Quality Assurance Engineer</strong>, is a professionaly responsible for ensuring the quality and reliability of software applications or systems. Their primary goal is to identify and prevent defects or issues before software is released to end-users.",
+          "text": "A <strong> Software Quality Assurance (SQA)</strong> Engineer, also known as a<strong> Software Tester</strong> or<strong> Quality Assurance Engineer</strong>, is a professional responsible for ensuring the quality and reliability of software applications or systems. Their primary goal is to identify and prevent defects or issues before software is released to end-users.",
           "infotext": "Here are some key responsibilities and tasks typically associated with the role of an<strong> SQA Engineer</strong>:",
           "list": [
             "Test Planning",
@@ -20,13 +20,44 @@
             "Regression Testing",
             "Test Documentation",
             "Collaboration",
-            "Continuous Improvemen",
+            "Continuous Improvement",
             "Compatibility Testing",
             "Performance Testing"
           ]
         },
         {
           "additionaltext": "To be successful as an SQA Engineer, one should possess strong analytical and problem-solving skills, attention to detail, and good communication skills. Knowledge of various testing methodologies, tools, and programming languages is also beneficial in this role."
+        }
+      ]
+    },
+    {
+      "slug": "sqa-engineer",
+      "id": "sqa-engineer",
+      "breadcrumbs": {
+        "pageTitle": "Careers",
+        "category": "PHP Developer",
+        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
+      },
+      "description": [
+        {
+          "subheading": "PHP Developer",
+          "text": "As a PHP developer, you specialize in using the PHP programming language to build web applications and websites. PHP is a widely used and popular server-side scripting language, particularly suited for web development.",
+          "abouttext": "As a PHP developer, you will typically work with frameworks like Laravel, Symfony, or CodeIgniter to expedite development tasks and enhance code organization. These frameworks provide a structured approach to building web applications, making it easier to manage databases, handle user authentication, and implement other common functionalities.",
+          "infotext": "In addition to frameworks, you’ll likely work with other tools and technologies such as MySQL or PostgreSQL for database management, HTML, CSS, and JavaScript for front-end development, and version control systems like Git for code management.",
+          "list": [
+            "Your responsibilities may include",
+            "Developing and maintaining web applications using PHP and related technologies.",
+            "Designing and implementing database structures and managing data using SQL queries.",
+            "Collaborating with designers and front-end developers to create user-friendly interfaces.",
+            "Writing clean, well-documented, and efficient code.",
+            "Conducting testing and debugging to identify and fix issues.",
+            "Deploying and maintaining applications on web servers.",
+            "Optimizing applications for performance and scalability.",
+            "Keeping up with the latest PHP trends, frameworks, and best practices."
+          ]
+        },
+        {
+          "additionaltext": "To excel as a PHP developer, it’s important to have a strong understanding of PHP fundamentals, object-oriented programming (OOP) principles, and familiarity with web development concepts. You should also possess problem-solving skills, attention to detail, and the ability to work in a collaborative team environment."
         }
       ]
     }
