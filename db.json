@@ -78,7 +78,7 @@
 "subheading":"Laravel Developer",
 "text":"As a <strong>Node.js</strong> developer, work with <strong>JavaScript</strong> on the server side to build scalable and efficient web applications. <strong>Node.js</strong> is a runtime environment that allows you to run JavaScript code outside of a web browser, making it ideal for server-side development.",
 "infotext":"Here are some key concepts and technologies you should be familiar with as a React developer:",
-"responsibilityheading":"Responsibilities:","list":["<strong>JavaScript</strong>: Strong proficiency in JavaScript is essential. Node.js uses the V8 JavaScript engine to execute code, so understanding core JavaScript concepts, and best practices is important.",
+"list":["<strong>JavaScript</strong>: Strong proficiency in JavaScript is essential. Node.js uses the V8 JavaScript engine to execute code, so understanding core JavaScript concepts, and best practices is important.",
 "<strong>Node.js</strong> fundamentals:Familiarize yourself with the core modules and APIs provided by Node.js. Understand concepts such as event-driven programming, non-blocking I/O, and the event loop.",
 "<strong>Express.js</strong>: Express.js is a popular web application framework for Node.js. It provides a robust set of features and tools for building web applications, handling routes, and managing middleware.",
 "<strong>Package management</strong>: NPM (Node Package Manager) is the default package manager for Node.js. Understand how to use NPM to manage dependencies, install packages, and handle versioning.",
