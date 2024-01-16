@@ -1,168 +1,90 @@
-{
-  "categories": [
-    {
-      "slug": "sqa-engineer",
-      "id": "sqa-engineer",
-      "breadcrumbs": {
-        "pageTitle": "Careers",
-        "category": "SQA Engineer",
-        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
-      },
-      "description": [
-        {
-          "subheading": "SQA Engineer",
-          "text": "A <strong> Software Quality Assurance (SQA)</strong> Engineer, also known as a<strong> Software Tester</strong> or<strong> Quality Assurance Engineer</strong>, is a professional responsible for ensuring the quality and reliability of software applications or systems. Their primary goal is to identify and prevent defects or issues before software is released to end-users.",
-          "infotext": "Here are some key responsibilities and tasks typically associated with the role of an<strong> SQA Engineer</strong>:",
-          "list": [
-            " <strong>Test Planning</strong> ",
-            " <strong>Test Execution</strong> ",
-            " <strong>Test Automation</strong> ",
-            " <strong>Regression Testing</strong> ",
-            " <strong>Test Documentation</strong> ",
-            " <strong>Collaboration</strong> ",
-            " <strong>Continuous Improvement</strong> ",
-            " <strong>Compatibility Testing</strong> ",
-            " <strong>Performance Testing</strong> "
-          ]
-        },
-        {
-          "additionaltext": "To be successful as an SQA Engineer, one should possess strong analytical and problem-solving skills, attention to detail, and good communication skills. Knowledge of various testing methodologies, tools, and programming languages is also beneficial in this role."
-        }
-      ]
-    },
-    {
-      "slug": "php-developer",
-      "id": "php-developer",
-      "breadcrumbs": {
-        "pageTitle": "Careers",
-        "category": "PHP Developer",
-        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
-      },
-      "description": [
-        {
-          "subheading": "PHP Developer",
-          "text": "As a  <strong>PHP developer</strong> , you specialize in using the PHP programming language to build web applications and websites. PHP is a widely used and popular server-side scripting language, particularly suited for web development.",
-          "abouttext": "As a  <strong>PHP developer</strong> , you will typically work with frameworks like Laravel, Symfony, or CodeIgniter to expedite development tasks and enhance code organization. These frameworks provide a structured approach to building web applications, making it easier to manage databases, handle user authentication, and implement other common functionalities.",
-          "infotext": "In addition to frameworks, you’ll likely work with other tools and technologies such as MySQL or PostgreSQL for database management, HTML, CSS, and JavaScript for front-end development, and version control systems like Git for code management.",
-          "listtext": "Your responsibilities may include:",
-          "list": [
-            "Developing and maintaining web applications using PHP and related technologies.",
-            "Designing and implementing database structures and managing data using SQL queries.",
-            "Collaborating with designers and front-end developers to create user-friendly interfaces.",
-            "Writing clean, well-documented, and efficient code.",
-            "Conducting testing and debugging to identify and fix issues.",
-            "Deploying and maintaining applications on web servers.",
-            "Optimizing applications for performance and scalability.",
-            "Keeping up with the latest PHP trends, frameworks, and best practices."
-          ]
-        },
-        {
-          "additionaltext": "To excel as a  <strong>PHP developer</strong> , it’s important to have a strong understanding of PHP fundamentals, object-oriented programming (OOP) principles, and familiarity with web development concepts. You should also possess problem-solving skills, attention to detail, and the ability to work in a collaborative team environment."
-        }
-      ]
-    },
-    {
-      "slug": "react-developer",
-      "id": "react-developer",
-      "breadcrumbs": {
-        "pageTitle": "Careers",
-        "category": "React Developer",
-        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
-      },
-      "description": [
-        {
-          "subheading": "React Developer",
-          "text": "<strong>React</strong> is a popular JavaScript library for building user interfaces. As a<strong> React developer</strong>, you’ll be working with components, managing state and props, and handling events to create interactive and dynamic web applications.",
-          "infotext": "Here are some key concepts and technologies you should be familiar with as a React developer:",
-          "list": [
-            " <strong>JSX</strong> ",
-            " <strong>Components of React</strong> ",
-            "  <strong>State and Properties of React</strong>",
-            "<strong>Virtual DOM(Document Object Model)</strong>",
-            "<strong>React Router</strong>",
-            "<strong>Redux</strong>",
-            "<strong>React Hooks</strong>",
-            "<strong>React Context</strong>",
-            "<strong>React Testing Library</strong>",
-            "<strong>React Developer Tools</strong>"
-          ]
-        },
-        {
-          "additionaltext": "Remember that React is constantly evolving, and it’s essential to stay up-to-date with the latest features."
-        }
-      ]
-    },
-    {
-      "slug": "laravel-developer",
-      "id": "laravel-developer",
-      "breadcrumbs": {
-        "pageTitle": "Careers",
-        "category": "Laravel Developer",
-        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
-      },
-      "description": [
-        {
-          "subheading": "Laravel Developer",
-          "text": "At The Custom Websites, we’re on a mission to deliver exceptional web solutions tailored to our clients’ unique needs. We’re currently seeking a skilled and motivated Laravel Developer to join our dynamic team. If you’re passionate about web development, possess strong technical expertise, and thrive in a collaborative environment, this opportunity is perfect for you!",
-       "responsibilityheading":"Responsibilities:",
-          "list": [
-            "Collaborate with our cross-functional team to develop and maintain high-quality Laravel-based web applications.",
-            "Design and implement robust, scalable, and efficient code using Laravel frameworks.",
-            "Participate in the entire software development lifecycle, from requirements gathering to deployment and maintenance.",
-            "Conduct thorough testing and debugging to ensure smooth, bug-free performance.",
-            "Optimize application performance and enhance the user experience.",
-            "Stay updated with the latest industry trends and technologies, and propose innovative solutions to improve our development processes.",
-            "Work closely with project managers, designers, and other developers to meet project deadlines and deliver exceptional results."
-          ],
-          "requirementheading": "Requirements:",
-           "requirements": [
-            "Proven experience as a Laravel Developer, with a strong portfolio showcasing your previous work.",
-            "In-depth knowledge of Laravel frameworks, including Laravel 7 or higher.",
-            "Proficiency in PHP, MySQL, HTML, CSS, JavaScript, and related technologies.",
-            "Experience with front-end frameworks such as Vue.js or React is a plus.",
-            "Familiarity with version control systems (Git, SVN) and agile development methodologies.",
-            "Solid understanding of database design principles and query optimization techniques.",
-            "Strong problem-solving skills and ability to work independently as well as part of a team.",
-            "Excellent communication skills and the ability to effectively collaborate with team members and clients.",
-            "Strong attention to detail and commitment to delivering high-quality code."
-           ]
-        },
-        {
-          "additionaltext": "<strong>Note:</strong> Please make sure to provide links to your portfolio or previous projects when applying for this position. Applications without portfolios will not be considered."
-        }
-      ]
-    },
-    {
-      "slug": "node-js-developer",
-      "id": "node-js-developer",
-      "breadcrumbs": {
-        "pageTitle": "Careers",
-        "category": "Laravel Developer",
-        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
-      },
-      "description": [
-        {
-          "subheading": "Laravel Developer",
-          "text": "As a <strong>Node.js</strong> developer, work with <strong>JavaScript</strong> on the server side to build scalable and efficient web applications. <strong>Node.js</strong> is a runtime environment that allows you to run JavaScript code outside of a web browser, making it ideal for server-side development.",
-             "infotext": "Here are some key concepts and technologies you should be familiar with as a React developer:",
-          "responsibilityheading":"Responsibilities:",
-          "list": [
-            "<strong>JavaScript</strong>: Strong proficiency in JavaScript is essential. Node.js uses the V8 JavaScript engine to execute code, so understanding core JavaScript concepts, features, and best practices is important.",
-            "<strong>Node.js</strong> fundamentals:Familiarize yourself with the core modules and APIs provided by Node.js. Understand concepts such as event-driven programming, non-blocking I/O, and the event loop.",
-            "<strong>Express.js</strong>: Express.js is a popular web application framework for Node.js. It provides a robust set of features and tools for building web applications, handling routes, and managing middleware.",
-            "<strong>Asynchronous programming</strong>: Node.js is known for its asynchronous nature, allowing you to handle multiple requests concurrently. Gain expertise in asynchronous programming techniques using callbacks, promises, and async/await syntax.",
-            "<strong>Package management</strong>: NPM (Node Package Manager) is the default package manager for Node.js. Understand how to use NPM to manage dependencies, install packages, and handle versioning.",
-            "<strong>Database integration</strong>: Familiarize yourself with database concepts, query languages (e.g., SQL), and integration techniques using database drivers or ORMs (Object-Relational Mappers) like Mongoose or Sequelize.",
-            "<strong>RESTful APIs</strong>: Learn how to build RESTful APIs using Node.js and Express.js. Understand HTTP methods, request/response handling, routing, authentication, and data serialization (e.g., JSON).",
-            "<strong>Testing and debugging</strong>: Proficiency in debugging tools and techniques is also important for identifying and fixing issues.",
-            "<strong>Security</strong>: Understand common security vulnerabilities and best practices for securing Node.js applications.",
-            "<strong>Deployment and DevOps</strong>: Learn how to deploy Node.js applications to various hosting environments (e.g., AWS, Azure, Heroku) and use tools like Docker for containerization."
-           ]
-        },
-        {
-          "additionaltext": "Remember that this is just an overview, and there’s always more to learn as a Node.js developer. Stay up to date with the latest trends, libraries, and frameworks in the Node.js ecosystem to enhance your skills and efficiency."
-        }
-      ]
-    }
-  ]
-}
+{"categories":[{
+"slug":"sqa-engineer",
+"id":"sqa-engineer",
+"breadcrumbs":{
+"pageTitle":"Careers",
+"category":"SQA Engineer",
+"backgroundimage":"https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"},
+"description":[{"subheading": "SQA Engineer","text": "A <strong> Software Quality Assurance (SQA)</strong> Engineer, also known as a<strong> Software Tester</strong> or<strong> Quality Assurance Engineer</strong>, is a professional responsible for ensuring the quality and reliability of software applications or systems. Their primary goal is to identify and prevent defects or issues before software is released to end-users.",
+"infotext":"Here are some key responsibilities and tasks typically associated with the role of an<strong> SQA Engineer</strong>:","list":["<strong>Test Planning</strong> ",
+"<strong>Test Execution</strong>",
+"<strong>Test Automation</strong>",
+"<strong>Regression Testing</strong>",
+"<strong>Test Documentation</strong>",
+"<strong>Collaboration</strong>",
+"<strong>Continuous Improvement</strong>",
+"<strong>Compatibility Testing</strong>",
+"<strong>Performance Testing</strong>"]},{
+"additionaltext":"To be successful as an SQA Engineer, one should possess strong analytical and problem-solving skills, attention to detail, and good communication skills. Knowledge of various testing methodologies, tools, and programming languages is also beneficial in this role."}]},{
+"slug":"php-developer",
+"id":"php-developer",
+"breadcrumbs":{"pageTitle":"Careers","category":"PHP Developer","backgroundimage":"https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"},
+"description":[{"subheading":"PHP Developer",
+"text":"As a<strong>PHP developer</strong>, you specialize in using the PHP programming language to build web applications and websites. PHP is a widely used and popular server-side scripting language, particularly suited for web development.",
+"abouttext":"As a<strong>PHP developer</strong> , you will typically work with frameworks like Laravel, Symfony, or CodeIgniter to expedite development tasks and enhance code organization. These frameworks provide a structured approach to building web applications, making it easier to manage databases, handle user authentication, and implement other common functionalities.",
+"infotext":"In addition to frameworks, you’ll likely work with other tools and technologies such as MySQL or PostgreSQL for database management, HTML, CSS, and JavaScript for front-end development, and version control systems like Git for code management.",
+"listtext":"Your responsibilities may include:","list": ["Developing and maintaining web applications using PHP and related technologies.",
+"Designing and implementing database structures and managing data using SQL queries.",
+"Collaborating with designers and front-end developers to create user-friendly interfaces.",
+"Writing clean, well-documented, and efficient code.",
+"Conducting testing and debugging to identify and fix issues.",
+"Deploying and maintaining applications on web servers.",
+"Optimizing applications for performance and scalability.",
+"Keeping up with the latest PHP trends, frameworks, and best practices."]},{
+"additionaltext": "To excel as a<strong>PHP developer</strong>, it’s important to have a strong understanding of PHP fundamentals, object-oriented programming (OOP) principles, and familiarity with web development concepts. You should also possess problem-solving skills, attention to detail, and the ability to work in a collaborative team environment."}]},{
+"slug":"react-developer",
+"id":"react-developer",
+"breadcrumbs":{"pageTitle": "Careers","category": "React Developer","backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"},
+"description":[{"subheading": "React Developer",
+"text":"<strong>React</strong> is a popular JavaScript library for building user interfaces. As a<strong> React developer</strong>, you’ll be working with components, managing state and props, and handling events to create interactive and dynamic web applications.",
+"infotext":"Here are some key concepts and technologies you should be familiar with as a React developer:","list":[" <strong>JSX</strong> ",
+"<strong>Components of React</strong>",
+"<strong>State and Properties of React</strong>",
+"<strong>Virtual DOM(Document Object Model)</strong>",
+"<strong>React Router</strong>",
+"<strong>Redux</strong>",
+"<strong>React Hooks</strong>",
+"<strong>React Context</strong>",
+"<strong>React Testing Library</strong>",
+"<strong>React Developer Tools</strong>"]},{
+"additionaltext":"Remember that React is constantly evolving, and it’s essential to stay up-to-date with the latest features."}]},{
+"slug":"laravel-developer",
+"id":"laravel-developer",
+"breadcrumbs":{"pageTitle": "Careers","category":"Laravel Developer","backgroundimage":"https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"},
+"description":[{"subheading": "Laravel Developer",
+"text":"At The Custom Websites, we’re on a mission to deliver exceptional web solutions tailored to our clients’ unique needs. We’re currently seeking a skilled and motivated Laravel Developer to join our dynamic team. If you’re passionate about web development, possess strong technical expertise, and thrive in a collaborative environment, this opportunity is perfect for you!",
+"responsibilityheading":"Responsibilities:","list":["Collaborate with our cross-functional team to develop and maintain high-quality Laravel-based web applications.",
+"Design and implement robust, scalable, and efficient code using Laravel frameworks.",
+"Participate in the entire software development lifecycle, from requirements gathering to deployment and maintenance.",
+"Conduct thorough testing and debugging to ensure smooth, bug-free performance.",
+"Optimize application performance and enhance the user experience.",
+"Stay updated with the latest industry trends and technologies, and propose innovative solutions to improve our development processes.",
+"Work closely with project managers, designers, and other developers to meet project deadlines and deliver exceptional results."],
+"requirementheading":"Requirements:",
+"requirements":["Proven experience as a Laravel Developer, with a strong portfolio showcasing your previous work.",
+"In-depth knowledge of Laravel frameworks, including Laravel 7 or higher.",
+"Proficiency in PHP, MySQL, HTML, CSS, JavaScript, and related technologies.",
+"Experience with front-end frameworks such as Vue.js or React is a plus.",
+"Familiarity with version control systems (Git, SVN) and agile development methodologies.",
+"Solid understanding of database design principles and query optimization techniques.",
+"Strong problem-solving skills and ability to work independently as well as part of a team.",
+"Excellent communication skills and the ability to effectively collaborate with team members and clients.",
+"Strong attention to detail and commitment to delivering high-quality code."]},{
+"additionaltext": "<strong>Note:</strong> Please make sure to provide links to your portfolio or previous projects when applying for this position. Applications without portfolios will not be considered."}]},{
+"slug":"node-js-developer",
+"id":"node-js-developer",
+"breadcrumbs":{"pageTitle": "Careers","category": "Laravel Developer","backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
+},"description":[{
+"subheading":"Laravel Developer",
+"text":"As a <strong>Node.js</strong> developer, work with <strong>JavaScript</strong> on the server side to build scalable and efficient web applications. <strong>Node.js</strong> is a runtime environment that allows you to run JavaScript code outside of a web browser, making it ideal for server-side development.",
+"infotext":"Here are some key concepts and technologies you should be familiar with as a React developer:",
+"responsibilityheading":"Responsibilities:","list":["<strong>JavaScript</strong>: Strong proficiency in JavaScript is essential. Node.js uses the V8 JavaScript engine to execute code, so understanding core JavaScript concepts, and best practices is important.",
+"<strong>Node.js</strong> fundamentals:Familiarize yourself with the core modules and APIs provided by Node.js. Understand concepts such as event-driven programming, non-blocking I/O, and the event loop.",
+"<strong>Express.js</strong>: Express.js is a popular web application framework for Node.js. It provides a robust set of features and tools for building web applications, handling routes, and managing middleware.",
+"<strong>Package management</strong>: NPM (Node Package Manager) is the default package manager for Node.js. Understand how to use NPM to manage dependencies, install packages, and handle versioning.",
+"<strong>Database integration</strong>: Familiarize yourself with database concepts, query languages (e.g., SQL), and integration techniques using database drivers or ORMs (Object-Relational Mappers) like Mongoose or Sequelize.",
+"<strong>RESTful APIs</strong>: Learn how to build RESTful APIs using Node.js and Express.js. Understand HTTP methods, request/response handling, routing, authentication, and data serialization (e.g., JSON).",
+"<strong>Testing and debugging</strong>: Proficiency in debugging tools and techniques is also important for identifying and fixing issues.",
+"<strong>Security</strong>: Understand common security vulnerabilities and best practices for securing Node.js applications.",
+"<strong>Deployment and DevOps</strong>: Learn how to deploy Node.js applications to various hosting environments (e.g., AWS, Azure, Heroku) and use tools like Docker for containerization."]},{
+"additionaltext":"Remember that this is just an overview, and there’s always more to learn as a Node.js developer. Stay up to date with the latest trends, libraries, and frameworks in the Node.js ecosystem to enhance your skills and efficiency."}]}]}
